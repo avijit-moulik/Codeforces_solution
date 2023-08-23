@@ -9,7 +9,7 @@ using namespace std;
 int main()
 {
   int n, a{1};
-  string x, y;
+  
 
   cin >> n;
   cout << "I hate ";
